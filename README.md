@@ -1,4 +1,4 @@
-# Pewlett-Hackard Analysis
+# Employee Database Analysis
 *An SQL HR-Department Analysis*
 
 ## Project Overview 
